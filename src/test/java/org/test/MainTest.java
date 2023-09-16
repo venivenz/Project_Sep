@@ -9,7 +9,9 @@ public class MainTest {
 		
 		private void test() {
 			
-		//	write the code logic here
+			
+			System.out.println("Test 1");
+			System.out.println("test 2");
 			
 			
 		}
