@@ -4,17 +4,18 @@ import org.testng.annotations.Test;
 
 public class MainTest {
 	
-		
 		@Test
 		
-		private void test() {
-			
-		//	write the code logic here
+			private void test() {
 			
 			
-		}
+		System.out.println("Test 1");
+		System.out.println("Test 2");
+		System.out.println("Test 3");
+		System.out.println("Test 4");
+		System.out.println("Test 5");
 
 	}
 
-	
+}
 
